@@ -5,6 +5,9 @@
 !*.cpp
 !*.c
 !*.pdf
+!*.java
+!*.class
+
 # Or directories
 !*/
 !.gitignore
